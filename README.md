@@ -17,7 +17,7 @@ write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ## Code:
-'''
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -182,7 +182,7 @@ The uses of Hogenakal water falls in Dharmapuri District are
 </p>
 </body>
 </html>
-'''
+```
 
 ## Output:
 ![output](./screenshots/out1.png)
